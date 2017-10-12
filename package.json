@@ -1,0 +1,22 @@
+{
+  "name": "Smart modifier sample",
+  "version": "0.0.1",
+  "description": "Smart modifier sample",
+  "scripts": {
+    "test": "truffle test",
+    "compile": "truffle compile",
+    "truffle": "truffle",
+    "testrpc": "testrpc"
+  },
+  "keywords": [
+    "ethereum",
+    "solidity",
+    "truffle"
+  ],
+  "author": "ahiatsevich",
+  "license": "LGPL-3.0",
+  "dependencies": {
+    "ethereumjs-testrpc": "^4.0.1",
+    "truffle": "3.4.5"
+  }
+}
